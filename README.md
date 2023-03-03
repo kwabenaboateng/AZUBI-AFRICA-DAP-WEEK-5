@@ -10,3 +10,9 @@ This programs was designed to perform the following:
 3. Request Repayment Period (in years)
 4. Calculate the total amount plus interest payable and the payment duration.
 5. Display the final output.
+
+## Developed by
+FREDRICK KWABENA BOATENG
+
+
+[FREDRICK KWABENA BOATENG - INDIVIDUAL PROJECT (WEEK 5).zip](https://github.com/kwabenaboateng/AZUBI-AFRICA-DAP-WEEK-5/files/10882153/FREDRICK.KWABENA.BOATENG.-.INDIVIDUAL.PROJECT.WEEK.5.zip)
